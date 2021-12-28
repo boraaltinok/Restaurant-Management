@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Restaurant Management</string>
+    <string-array name="foodChoice">
+        <item>soup</item>
+        <item>ara yemek</item>
+        <item>ana yemek</item>
+        <item>tatlı</item>
+        <item>içecek</item>
+    </string-array>
+
+
+</resources>

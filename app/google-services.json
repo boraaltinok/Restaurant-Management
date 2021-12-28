@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "364858089541",
+    "firebase_url": "https://restaurant-management-dde63-default-rtdb.firebaseio.com",
+    "project_id": "restaurant-management-dde63",
+    "storage_bucket": "restaurant-management-dde63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364858089541:android:3e3ce301f279439161432c",
+        "android_client_info": {
+          "package_name": "com.example.restaurantmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364858089541-vhgrrm3u4mg5s0rod992c6gshu8u2blh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz2cbAvTah9_MJfaZmydGAI3C_BTUcFeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364858089541-vhgrrm3u4mg5s0rod992c6gshu8u2blh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
